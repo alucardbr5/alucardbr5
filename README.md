@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, seja bem-vindo(a) ao meu perfil! 🚀
 
-<!--
-**alucardbr5/alucardbr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu utilizo a tecnologia para transformar ideias em código. Trabalho principalmente com **Java, Python e Lua**, explorando o melhor de cada ecossistema.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![Java](https://shields.io)
+![Python](https://shields.io)
+![Lua](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 O que você vai encontrar por aqui:
+* Projetos de back-end robustos em Java.
+* Scripts e automações inteligentes em Python.
+* Lógicas rápidas e integrações leves com Lua.
+
+---
+
+📬 **Vamos conversar?**
+* **E-mail:** [yanngogli@gmail.com]
