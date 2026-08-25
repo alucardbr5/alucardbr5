@@ -9,6 +9,7 @@ Eu utilizo a tecnologia para transformar ideias em código. Trabalho principalme
 ![Lua](https://shields.io)
 
 
+
 ## 📌 O que você vai encontrar por aqui:
 * Projetos de back-end robustos em Java.
 * Scripts e automações inteligentes em Python.
